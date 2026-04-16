@@ -1,35 +1,28 @@
-## Hi, I’m Kartik Vij 👋
+## Kartik Vij
 
-I’m a recent graduate from IIT Kharagpur with a Dual B.Tech & M.Tech in Chemical and Financial Engineering. My primary interests are in data science, machine learning, and quantitative finance, with hands-on experience spanning applied ML, risk modeling, and financial engineering through academic research and industry internships.
+I am a recent graduate from IIT Kharagpur with a Dual B.Tech and M.Tech spanning Chemical Engineering and Financial Engineering. My interests lie in machine learning, data science, and quantitative finance, with hands-on experience in applied ML, risk modelling, and financial engineering through research projects and industry internships.
 
-### 🔍 Areas of Interest
+I have completed the Certificate in Quantitative Finance (CQF) and passed FRM Level I. I am particularly interested in quantitative research, financial markets, and data-driven modelling, with a focus on building robust and practical solutions grounded in strong analytical foundations.
 
-* Machine Learning and Deep Learning
-* Data Science and Statistical Modeling
-* Quantitative Finance, Risk Analytics, and Derivatives
-* Algorithmic and Systematic Trading (research-focused)
+### Areas of Interest
 
-### 🧠 Technical Focus
+- Machine Learning and Deep Learning
+- Data Science and Statistical Modelling
+- Quantitative Finance, Derivatives, and Risk Analytics
+- Algorithmic and Systematic Trading Research
 
-* Python for data science, machine learning, and financial modeling
-* C++ for performance-oriented and quantitative applications
-* Applied ML models, stochastic modeling, and numerical methods
-* Ongoing learning through advanced coursework and self-driven projects
+### Technical Focus
 
-### 🤝 Collaboration
+- Python for machine learning, data science, and financial modelling
+- C++ for quantitative and performance-oriented applications
+- Stochastic modelling, numerical methods, and applied statistics
+- Research-led work in machine learning and quantitative finance
 
-I’m selectively open to collaborations that are:
+### Collaboration
 
-* Technically rigorous and well-defined
-* Focused on applied ML, data science, or quantitative finance
-* Research-oriented or problem-driven rather than exploratory
+I am open to collaboration on projects that are technically rigorous, clearly scoped, and grounded in real analytical or modelling challenges, particularly in machine learning, data science, and quantitative finance.
 
-### 📫 Contact
+### Contact
 
-* Email: **[vijkartik2002@gmail.com](mailto:vijkartik2002@gmail.com)**
-* LinkedIn: [https://www.linkedin.com/in/kartik-vij-87b6b3207/](https://www.linkedin.com/in/kartik-vij-87b6b3207/)
-
-<!---
-KVInator/KVInator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- Email: [vijkartik2002@gmail.com](mailto:vijkartik2002@gmail.com)
+- LinkedIn: [linkedin.com/in/kartik-vij-87b6b3207](https://www.linkedin.com/in/kartik-vij-87b6b3207/)
